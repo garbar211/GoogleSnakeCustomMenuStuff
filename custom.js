@@ -1,4 +1,4 @@
-alert("WELCOME! If there is an error please report it to me. Via gmail would be nice; with the explination on what is wrong. Any suggestions can also be sent my way!");
+alert("WELCOME! If there is an error please report it to me. Via gmail would be nice; with the explination on what is wrong. Any suggestions can also be sent my way!\n\n\nLAST UPDATED: WED, NOV 17 @ 10:43 pm est");
 window.snake.more_menu = function(e) {
   
   e = e || 25;
