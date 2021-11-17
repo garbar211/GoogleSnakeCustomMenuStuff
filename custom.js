@@ -55,7 +55,7 @@ window.snake.more_menu = function(e) {
 
   // blursed
   img = new Image;
-  img.src = 'https://cdn.discordapp.com/attachments/723093815786864661/894286619530653726/unknown.png';
+  img.src = 'https://thestuffinthemargin.files.wordpress.com/2014/04/pic176.jpg';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
