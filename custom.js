@@ -55,7 +55,7 @@ window.snake.more_menu = function(e) {
 
   // blursed
   img = new Image;
-  img.src = 'https://cdn.discordapp.com/attachments/723093815786864661/894286619530653726/unknown.png';
+  img.src = 'https://thestuffinthemargin.files.wordpress.com/2014/04/pic176.jpg';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
@@ -89,7 +89,7 @@ window.snake.more_menu = function(e) {
 
   // desert bus
   img = new Image;
-  img.src = 'https://cdn.discordapp.com/attachments/723093815786864661/894619150717177886/unknown.png';
+  img.src = 'https://www.pngall.com/wp-content/uploads/4/Side-View-School-Bus-Transparent.png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
@@ -137,7 +137,7 @@ window.snake.more_menu = function(e) {
 
   // ultradeath
   img = new Image;
-  img.src = 'https://cdn.discordapp.com/attachments/723093815786864661/894620725888040981/unknown.png';
+  img.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Banana_of_Flame_%2815731548069%29.jpg/2560px-Banana_of_Flame_%2815731548069%29.jpg';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
