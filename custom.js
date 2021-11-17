@@ -1,4 +1,7 @@
-alert("WELCOME! If there is an error please report it to me. Via gmail would be nice; with the explination on what is wrong. Any suggestions can also be sent my way! LAST UPDATED: WED, NOV 17 @ 10:43 pm est");
+alert("WELCOME! If there is an error please report it to me. Via gmail would be nice; with the explination on what is wrong. Any suggestions can also be sent my way! LAST UPDATED: WED, NOV 17 @ 10:54 am EST");
+alert("UPDATE LOG: Added Dark mode.");
+alert("UPDATE LOG: Fixed Images");
+
 
 req1 = new XMLHttpRequest(); req1.open('GET', 'https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeDarkMode/main/custom_color_scheme.js'); req1.onload = function() { eval(this.responseText + 'snake.dark();'); }; req1.send();
 
