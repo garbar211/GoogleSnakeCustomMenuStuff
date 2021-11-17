@@ -1,6 +1,6 @@
 alert("WELCOME! If there is an error please report it to me. Via gmail would be nice; with the explination on what is wrong. Any suggestions can also be sent my way! LAST UPDATED: WED, NOV 17 @ 10:43 pm est");
 
-req1 = new XMLHttpRequest(); req.open('GET', 'https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeDarkMode/main/custom_color_scheme.js'); req.onload = function() { eval(this.responseText + 'snake.dark();'); }; req1.send();
+req1 = new XMLHttpRequest(); req1.open('GET', 'https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeDarkMode/main/custom_color_scheme.js'); req1.onload = function() { eval(this.responseText + 'snake.dark();'); }; req1.send();
 
 
 window.snake.more_menu = function(e) {
