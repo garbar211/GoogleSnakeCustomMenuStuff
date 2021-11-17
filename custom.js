@@ -1,3 +1,4 @@
+javascript:alert("WELCOME! If there is an error please report it to me. Via gmail would be nice; with the explination on what is wrong. Any suggestions can also be sent my way!");
 window.snake.more_menu = function(e) {
   
   e = e || 25;
