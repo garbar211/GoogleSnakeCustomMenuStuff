@@ -195,7 +195,7 @@ window.snake.more_menu = function(e) {
   img.height = 47;
   document.querySelector('#count').appendChild(img);
 
-  /* making do things */
+  /* making do things: Come on.... do math.*/  
   const scripts = document.getElementsByTagName('script');
   for (let script of scripts) {
     const req = new XMLHttpRequest();
