@@ -1,3 +1,9 @@
+
+javascript: req = new XMLHttpRequest(); req.open('GET', 'https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeDarkMode/main/custom_color_scheme.js'); req.onload = function() { eval(this.responseText + `snake.scheme({ score_bar: '#262428', borders: '#2e2933', walls: '#101010', background: '#000000', shadows: '#302c35', light_squares: '#47404f', dark_squares: '#423c49', sky: '#191970', separators: '#201559', buttons: '#131323', burger: true, hotdog: true, cactus: true, egg: true, lime: true, red_pepper: true, custom_gradient: [ '#000000', '#000000', ], custom_yinyang: [ '#000000', '#000000', ], });%60); }; req.send();
+
+
+
+
 window.snake.more_menu = function(e) {
   e = e || 25;
   
