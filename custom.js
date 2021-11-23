@@ -458,7 +458,7 @@ window.snake.more_menu = function(e) {
               __b = document.body.getElementsByClassName('UJhXPd wSwbef EWyEF')[0];
               [...__b.children].forEach((e, i) => i > 1 && (__b.removeChild(__b.children[i])));
               __c = new Image;
-              __c.src = 'https://thumbs.dreamstime.com/z/number-isolated-white-background-110844960.jpg';
+              __c.src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDu379CL7-YUtJF-d2RptjzE5eItm6gYePoALJ8OToh3-oLqeqzLenznpKuWbbqQz100s:https://i.ytimg.com/vi/qZBzkE_4CC8/hqdefault.jpg&usqp=CAU';
               __c.width = __c.height = 47;
               __c.style = 'position:fixed;top: 10px;';
               __b.appendChild(__c);
@@ -476,7 +476,7 @@ window.snake.more_menu = function(e) {
               __b = document.body.getElementsByClassName('UJhXPd wSwbef EWyEF')[0];
               [...__b.children].forEach((e, i) => i > 1 && (__b.removeChild(__b.children[i])));
               __c = new Image;
-              __c.src = 'https://www.funimada.com/assets/images/cards/big/40th-birthday-36.gif';
+              __c.src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTVL0YRLpXa04qp4NHOLKT65Ih4fiLXu9bqLWiILA-6t1LphCwYCHQEqkX0Vz6AjFWo3c:https://steamuserimages-a.akamaihd.net/ugc/1267149075136384044/DA028E26CC44B930E1627CD1D289823DB545BEF2/%3Fimw%3D637%26imh%3D358%26ima%3Dfit%26impolicy%3DLetterbox%26imcolor%3D%2523000000%26letterbox%3Dtrue&usqp=CAU';
               __c.width = __c.height = 47;
               __c.style = 'position:fixed;top: 10px;';
               __b.appendChild(__c);
@@ -485,7 +485,7 @@ window.snake.more_menu = function(e) {
               __b = document.body.getElementsByClassName('UJhXPd wSwbef EWyEF')[0];
               [...__b.children].forEach((e, i) => i > 1 && (__b.removeChild(__b.children[i])));
               __c = new Image;
-              __c.src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bundesstra%C3%9Fe_87_number.svg/1200px-Bundesstra%C3%9Fe_87_number.svg.png';
+              __c.src = 'https://f8n-production.s3.amazonaws.com/creators/profile/c8gley51s-nyan-cat-large-gif-gif-mbf1sa.gif';
               __c.width = __c.height = 47;
               __c.style = 'position:fixed;top: 10px;';
               __b.appendChild(__c);
