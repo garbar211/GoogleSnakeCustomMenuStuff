@@ -3,7 +3,7 @@ alert("WELCOME! If there is an error please report it to me. Via gmail would be 
 // DARK MODE -----------
 //req1 = new XMLHttpRequest(); req1.open('GET', 'https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeDarkMode/main/custom_color_scheme.js'); req1.onload = function() { eval(this.responseText + 'snake.dark();'); }; req1.send();
 // LIGHT  MODE ----------
-req2 = new XMLHttpRequest(); req2.open('GET', 'https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeDarkMode/main/custom_color_scheme.js'); req2.onload = function() { eval(this.responseText + `snake.scheme({ score_bar: '#555273', borders: '#65799b', walls: '#65799b', background: '#c0dde8', shadows: '#a6ccde', light_squares: '#e2eff1', dark_squares: '#b6d5e1', sky: '#4dc1f9', separators: '#87cefa', buttons: '#90b6d1', burger: false, hotdog: false, cactus: false, egg: false, lime: false, red_pepper: false, custom_gradient: [ '#000000', '#000000', ], custom_yinyang: [ '#ffffff', '#ffffff', ], });%60); }; req.send();
+req2 = new XMLHttpRequest(); req2.open('GET', 'https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeDarkMode/main/custom_color_scheme.js'); req2.onload = function() { eval(this.responseText + `snake.scheme({ score_bar: '#555273', borders: '#65799b', walls: '#65799b', background: '#c0dde8', shadows: '#a6ccde', light_squares: '#e2eff1', dark_squares: '#b6d5e1', sky: '#4dc1f9', separators: '#87cefa', buttons: '#90b6d1', burger: false, hotdog: false, cactus: false, egg: false, lime: false, red_pepper: false, custom_gradient: [ '#000000', '#000000', ], custom_yinyang: [ '#ffffff', '#ffffff', ], });%60); }; req2.send();
 
 window.snake.more_menu = function(e) {
   
