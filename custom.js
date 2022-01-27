@@ -1,2 +1,1 @@
-alert("SO.... I Think I fixed the issue(Again). Its more of a google trying to block it... hopefully this fixes all future patches on googles side. Dark mode no longer works. ");
 javascript: req = new XMLHttpRequest(); req.open('GET', 'https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeCustomMenuStuff/main/custom.js'); req.onload = function() { eval(this.responseText + 'snake.more_menu();'); }; req.send();
